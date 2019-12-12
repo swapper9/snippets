@@ -4,3 +4,6 @@ JNDI
 https://docs.oracle.com/javase/tutorial/jndi/ops/index.html
 
 https://docs.oracle.com/javase/jndi/tutorial/beyond/env/index.html
+
+LDAP Setup
+https://docs.oracle.com/javase/tutorial/jndi/software/content.html

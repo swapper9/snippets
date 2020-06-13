@@ -11,6 +11,8 @@ def compare(f1, f2):
     lines2 = read_file(f2)
     for i in range(len(lines1)):
         diff = True
+        if lines1[i].isspace():
+            continue
         for j in range(len(lines2)):
             if lines1[i] == lines2[j]:
                 diff = False
